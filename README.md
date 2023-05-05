@@ -1,7 +1,7 @@
 # Blood-donation-record
 
 This is Java Swing (Blood donation register) project and I have used drag and drop facility(Netbeans)
-It provides a screen to register the donors with details such as name , age, address etc as shown below in the screenshot . and it will stores details in a database then display a thanks messages with unquie id(for this i have used a sequence ) and name of donor in another screen. This also displaying the count of donors in each of the blood groups.
+It provides a screen to register the donors with details such as name , age, address etc as shown below in the screenshot and it will stores details in a database then display a thanks message with unquie id(for this i have used a sequence ) and name of donor in another screen. This also displaying the count of donors in each of the blood groups.
  I have used various validation for phone number(only digit,and limit), name(only alphabet) , age(between 18-50) and required field validation. 
  
 First screen:
